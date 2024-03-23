@@ -18,9 +18,9 @@ This repo contains essential files for the module 1 challenge to refactor a land
 To use this Horiseon landing page you can visit https://justinboston.github.io/hw1/. Please click on the 3 headings within the navigation bar to learn more about a specific service of the Horiseon team. Please also feel free to inspect the webpage using Chrome DevTools to see how the webpage's CSS alters when the resolution size is below 1010px.
 
 ## Links
-Published Site: https://justinboston.github.io/hw1/
+Published Site: [https://justinboston.github.io/hw1/](https://justinboston.github.io/hw1-horiseon/)
 <br>
-GitHub Repo: https://github.com/justinboston/hw1
+GitHub Repo: [https://github.com/justinboston/hw1](https://github.com/justinboston/hw1-horiseon)
 
 ## Credits
 N/A
